@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="aopalliance-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/guava-26.0-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/guice-4.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/javax.inject-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
